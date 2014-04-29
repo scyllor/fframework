@@ -203,7 +203,7 @@
 		<!-- log end -->
 	</dependencies>
 	<build>
-		<finalName>shoppingcart</finalName>
+		<finalName>fframework</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
